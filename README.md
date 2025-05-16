@@ -22,8 +22,6 @@ I'm a Business Information Systems graduate, aspiring data analyst/software deve
 
 🔗 [Visit Portfolio Website](https://yourusername.github.io/your-repo-name)
 
-> Replace the link above with your actual GitHub Pages URL once it's live.
-
 ## 📬 Connect With Me
 
 - TikTok: [@rakgadi\_mampe](https://www.tiktok.com/@rakgadi_mampe)  
