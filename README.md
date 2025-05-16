@@ -20,7 +20,7 @@ I'm a Business Information Systems graduate, aspiring data analyst/software deve
 
 ## 🚀 Live Site
 
-🔗 [Visit Portfolio Website](https://yourusername.github.io/your-repo-name)
+🔗 [Visit Portfolio Website](https://lethabomampe.github.io/portfolio-site/)
 
 ## 📬 Connect With Me
 
